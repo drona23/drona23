@@ -56,8 +56,7 @@
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=drona23&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drona23&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff&langs_count=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drona23&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=302b63" />
 
 </div>
 
