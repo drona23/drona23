@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Drona%20Gangarapu&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Building%20AI%20that%20doesn't%20burn%20the%20planet&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=MLOps+Engineer+%E2%9A%94%EF%B8%8F;RAG+%26+LLM+Architect+%F0%9F%A7%A0;AI+Sustainability+Researcher+%F0%9F%8C%8A;Open+Source+Creator+%E2%AD%90)](https://github.com/drona23)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%97%84%EF%B8%8F;MLOps+%E2%9A%94%EF%B8%8F;RAG+%26+LLMs+%F0%9F%A7%A0;AI+Sustainability+Researcher+%F0%9F%8C%8A;Open+Source+Contributor+%E2%AD%90;Vibe+Coder+%F0%9F%8E%B5)](https://github.com/drona23)
 
 </div>
 
@@ -44,7 +44,7 @@
 |---|---|---|
 | [**claude-token-efficient**](https://github.com/drona23/claude-token-efficient) | ⭐ 3,659 | One CLAUDE.md to cut Claude verbosity. Drop-in, no code changes. |
 | [**Capstone_Project**](https://github.com/drona23/Capstone_Project) | 🌊 S-Rank | ML predicts data center CO₂ + water use. Routes AI jobs to cleanest server. |
-| [**llm-rag-chatbot**](https://github.com/drona23/llm-rag-chatbot) | 🧠 A-Rank | Student loan Q&A with RAG — grounded answers via Claude, auto-evaluated. |
+| [**llm-rag-chatbot**](https://github.com/drona23/llm-rag-chatbot) | 🧠 A-Rank | Student loan Q&A with RAG. Grounded answers via Claude, auto-evaluated. |
 | [**substack-ai-bot**](https://github.com/drona23/substack-ai-bot) | 🤖 A-Rank | Scrapes AI news, generates posts, publishes to Substack daily at 6 AM. |
 | [**weather-pipeline**](https://github.com/drona23/weather-pipeline) | ⚙️ B-Rank | Hourly ETL: 28 US cities → Airflow → PostgreSQL. Live infra for the Capstone. |
 
