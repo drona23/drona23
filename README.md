@@ -11,7 +11,7 @@
 <div align="center">
 
 ```ansi
- ⚔  ***REDACTED***  |  AI × Sustainability  |  3.6k devs use my work  ⚔
+ ⚔  AI × Sustainability  |  3.6k devs use my work  ⚔
 ```
 
 </div>
