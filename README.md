@@ -52,22 +52,6 @@
 
 ---
 
-### 📊 Battle Stats
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=drona23&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=302b63" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=drona23&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
