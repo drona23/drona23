@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=drona23&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Hard%20work.%20Smarter%20tools.&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%97%84%EF%B8%8F;MLOps+%E2%9A%94%EF%B8%8F;RAG+%26+LLMs+%F0%9F%A7%A0;AI+Sustainability+Researcher+%F0%9F%8C%8A;Open+Source+Contributor+%E2%AD%90;Vibe+Coder+%F0%9F%8E%B5)](https://github.com/drona23)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=760&lines=Generative+AI+Engineer;Agentic+AI+Engineer;AI%2FML+Engineer;AI+Engineer;Data+Scientist;Data+Engineer)](https://github.com/drona23)
 
 </div>
 
