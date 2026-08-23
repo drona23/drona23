@@ -8,6 +8,8 @@
 
 I build Generative AI, agentic AI, machine-learning, and data platforms that connect reliable data pipelines with deployable models and intelligent applications.
 
+**Role focus:** Generative AI Engineer · AI/ML Engineer · Agentic AI Engineer · Data Scientist · Data Engineer
+
 </div>
 
 ---
