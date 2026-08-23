@@ -1,167 +1,75 @@
 <div align="center">
 
-<img width="100%" src="./assets/profile-hero-2026.svg" alt="Drona Gangarapu profile for Generative AI, Agentic AI, AI and ML, Data Science, and Data Engineering roles" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=drona23&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Hard%20work.%20Smarter%20tools.&descAlignY=58&descColor=a78bfa&animation=fadeIn" />
 
-<br/>
-
-**Generative AI Engineer · Agentic AI Engineer · AI/ML Engineer · Data Scientist · Data Engineer**
-
-I build production ready AI and data systems from ingestion and modeling through retrieval, agents, APIs, evaluation, and observability.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%97%84%EF%B8%8F;MLOps+%E2%9A%94%EF%B8%8F;RAG+%26+LLMs+%F0%9F%A7%A0;AI+Sustainability+Researcher+%F0%9F%8C%8A;Open+Source+Contributor+%E2%AD%90;Vibe+Coder+%F0%9F%8E%B5)](https://github.com/drona23)
 
 </div>
 
 ---
 
-## What I Build
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### GenAI and Agents
-
-- End to end RAG systems
-- Semantic and hybrid retrieval
-- LangChain, LangGraph, LlamaIndex
-- Tool calling and MCP integrations
-- Evaluation, guardrails, and HITL
-
-</td>
-<td width="34%" valign="top">
-
-### AI/ML and Data Science
-
-- Classification and regression
-- Forecasting and anomaly detection
-- Recommendations and segmentation
-- NLP and computer vision
-- Explainability with SHAP and LIME
-
-</td>
-<td width="33%" valign="top">
-
-### Data and Production
-
-- Batch and streaming pipelines
-- Spark, Kafka, Airflow, and SQL
-- FastAPI services and model serving
-- Docker, Kubernetes, and cloud
-- MLOps, LLMOps, CI/CD, and monitoring
-
-</td>
-</tr>
-</table>
-
----
-
-## Featured Builds
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [Making AI Less Thirsty](https://github.com/drona23/Personal_Project)
-
-Predicts data center carbon and water impact, then routes AI workloads toward cleaner locations.
-
-**Python · XGBoost · Prophet · SHAP**
-
-</td>
-<td width="50%" valign="top">
-
-### [LLM RAG Chatbot](https://github.com/drona23/llm-rag-chatbot)
-
-Delivers grounded question answering with retrieval and automated response evaluation.
-
-**Python · RAG · LLM evaluation**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [Weather Data Pipeline](https://github.com/drona23/weather-pipeline)
-
-Runs hourly ETL for 28 U.S. cities with orchestration and relational storage.
-
-**Airflow · PostgreSQL · Python**
-
-</td>
-<td width="50%" valign="top">
-
-### [Claude Token Efficient](https://github.com/drona23/claude-token-efficient)
-
-Benchmarks configuration strategies for efficient and reproducible agent workflows.
-
-**Python · Agents · Evaluation**
-
-</td>
-</tr>
-</table>
-
----
-
-## Engineering Principles
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/GROUNDED-over_guessed-22d3ee?style=for-the-badge&labelColor=0f172a" alt="Grounded over guessed" />
-<img src="https://img.shields.io/badge/EVALUATED-over_assumed-818cf8?style=for-the-badge&labelColor=0f172a" alt="Evaluated over assumed" />
-<img src="https://img.shields.io/badge/OBSERVABLE-over_opaque-a78bfa?style=for-the-badge&labelColor=0f172a" alt="Observable over opaque" />
-<img src="https://img.shields.io/badge/PRODUCTION-over_prototype-f472b6?style=for-the-badge&labelColor=0f172a" alt="Production over prototype" />
+```ansi
+ ⚔  AI × Sustainability  |  3.6k devs use my work  ⚔
+```
 
 </div>
 
-<br/>
+---
 
-- Connect data engineering, modeling, retrieval, and application delivery as one system.
-- Measure model quality, retrieval relevance, hallucination risk, latency, cost, and drift.
-- Design for security, explainability, access control, auditability, and responsible AI.
-
-<details>
-<summary><b>Explore the technical stack</b></summary>
-<br/>
+### ⚡ Shinobi Techniques *(Skills)*
 
 <div align="center">
 
-**AI, ML, and Agents**
-
-![LangChain](https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=8b5cf6)
-![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=flat-square&logo=langchain&logoColor=8b5cf6)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111827?style=flat-square&logoColor=8b5cf6)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-111827?style=flat-square&logo=huggingface&logoColor=8b5cf6)
-![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=8b5cf6)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=8b5cf6)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=8b5cf6)
-
-**Data and Application Engineering**
-
-![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=22d3ee)
-![SQL](https://img.shields.io/badge/SQL-111827?style=flat-square&logo=postgresql&logoColor=22d3ee)
-![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=22d3ee)
-![Apache Spark](https://img.shields.io/badge/Spark-111827?style=flat-square&logo=apachespark&logoColor=22d3ee)
-![Apache Kafka](https://img.shields.io/badge/Kafka-111827?style=flat-square&logo=apachekafka&logoColor=22d3ee)
-![Apache Airflow](https://img.shields.io/badge/Airflow-111827?style=flat-square&logo=apacheairflow&logoColor=22d3ee)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=22d3ee)
-
-**Cloud and Delivery**
-
-![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=f472b6)
-![Azure](https://img.shields.io/badge/Azure-111827?style=flat-square&logo=microsoftazure&logoColor=f472b6)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=flat-square&logo=googlecloud&logoColor=f472b6)
-![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=f472b6)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=f472b6)
-![MLflow](https://img.shields.io/badge/MLflow-111827?style=flat-square&logo=mlflow&logoColor=f472b6)
+![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
+![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
+![React](https://img.shields.io/badge/React-0f0c29?style=for-the-badge&logo=react&logoColor=a78bfa)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f0c29?style=for-the-badge&logo=typescript&logoColor=a78bfa)
+![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=a78bfa)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
+![Apache Airflow](https://img.shields.io/badge/Airflow-0f0c29?style=for-the-badge&logo=apacheairflow&logoColor=a78bfa)
+![XGBoost](https://img.shields.io/badge/XGBoost-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
+![Claude API](https://img.shields.io/badge/Claude_API-0f0c29?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
 
 </div>
-</details>
 
-<br/>
+---
+
+### 🗡️ Arc Missions *(Featured Projects)*
 
 <div align="center">
 
-**BUILD · EVALUATE · DEPLOY · OBSERVE**
+| Project | Power Level | Mission |
+|---|---|---|
+| [**claude-token-efficient**](https://github.com/drona23/claude-token-efficient) | ⭐ 5.9K + | One CLAUDE.md to cut Claude verbosity. Drop-in, no code changes. |
+| [**Capstone_Project**](https://github.com/drona23/Capstone_Project) | 🌊 S-Rank | ML predicts data center CO₂ + water use. Routes AI jobs to cleanest server. |
+| [**llm-rag-chatbot**](https://github.com/drona23/llm-rag-chatbot) | 🧠 A-Rank | Student loan Q&A with RAG. Grounded answers via Claude, auto-evaluated. |
+| [**substack-ai-bot**](https://github.com/drona23/substack-ai-bot) | 🤖 A-Rank | Scrapes AI news, generates posts, publishes to Substack daily at 6 AM. |
+| [**weather-pipeline**](https://github.com/drona23/weather-pipeline) | ⚙️ B-Rank | Hourly ETL: 28 US cities → Airflow → PostgreSQL. Live infra for the Capstone. |
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:081827,50:17153a,100:050816&height=100&section=footer&animation=fadeIn" alt="" />
+</div>
+
+---
+
+### 📊 Battle Stats
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=drona23&bg_color=0f0c29&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=302b63" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=drona23&theme=midnight-purple&hide_border=true&background=0f0c29&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" />
 
 </div>
