@@ -16,57 +16,48 @@
 
 ### ⚡ Shinobi Techniques *(Skills)*
 
-<div align="center">
+<h4 align="center">AI, ML & Agents</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" alt="Python" />
+  <img src="https://img.shields.io/badge/LangChain-0f0c29?style=flat-square&logo=langchain&logoColor=a78bfa" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-0f0c29?style=flat-square&logo=langchain&logoColor=a78bfa" alt="LangGraph" />
+  <img src="https://img.shields.io/badge/LlamaIndex-0f0c29?style=flat-square&logoColor=a78bfa" alt="LlamaIndex" />
+  <img src="https://img.shields.io/badge/RAG-0f0c29?style=flat-square&logo=databricks&logoColor=a78bfa" alt="RAG" />
+  <img src="https://img.shields.io/badge/MCP-0f0c29?style=flat-square&logoColor=a78bfa" alt="MCP" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI_API-0f0c29?style=flat-square&logo=openai&logoColor=a78bfa" alt="OpenAI API" />
+  <img src="https://img.shields.io/badge/Claude_API-0f0c29?style=flat-square&logo=anthropic&logoColor=a78bfa" alt="Claude API" />
+  <img src="https://img.shields.io/badge/Hugging_Face-0f0c29?style=flat-square&logo=huggingface&logoColor=a78bfa" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Scikit--learn-0f0c29?style=flat-square&logo=scikitlearn&logoColor=a78bfa" alt="Scikit-learn" />
+  <img src="https://img.shields.io/badge/PyTorch-0f0c29?style=flat-square&logo=pytorch&logoColor=a78bfa" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/XGBoost-0f0c29?style=flat-square&logo=python&logoColor=a78bfa" alt="XGBoost" />
+</p>
 
-**Generative AI & Agentic AI**
+<h4 align="center">Data Engineering</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-0f0c29?style=flat-square&logo=postgresql&logoColor=a78bfa" alt="SQL" />
+  <img src="https://img.shields.io/badge/Apache_Spark-0f0c29?style=flat-square&logo=apachespark&logoColor=a78bfa" alt="Apache Spark" />
+  <img src="https://img.shields.io/badge/Apache_Kafka-0f0c29?style=flat-square&logo=apachekafka&logoColor=a78bfa" alt="Apache Kafka" />
+  <img src="https://img.shields.io/badge/Apache_Airflow-0f0c29?style=flat-square&logo=apacheairflow&logoColor=a78bfa" alt="Apache Airflow" />
+  <img src="https://img.shields.io/badge/Databricks-0f0c29?style=flat-square&logo=databricks&logoColor=a78bfa" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Snowflake-0f0c29?style=flat-square&logo=snowflake&logoColor=a78bfa" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/PostgreSQL-0f0c29?style=flat-square&logo=postgresql&logoColor=a78bfa" alt="PostgreSQL" />
+</p>
 
-![LangChain](https://img.shields.io/badge/LangChain-0f0c29?style=for-the-badge&logo=langchain&logoColor=a78bfa)
-![LangGraph](https://img.shields.io/badge/LangGraph-0f0c29?style=for-the-badge&logo=langchain&logoColor=a78bfa)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-0f0c29?style=for-the-badge&logoColor=a78bfa)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-0f0c29?style=for-the-badge&logo=openai&logoColor=a78bfa)
-![Claude](https://img.shields.io/badge/Claude_API-0f0c29?style=for-the-badge&logo=anthropic&logoColor=a78bfa)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0f0c29?style=for-the-badge&logo=huggingface&logoColor=a78bfa)
-![RAG](https://img.shields.io/badge/RAG-0f0c29?style=for-the-badge&logo=databricks&logoColor=a78bfa)
-![MCP](https://img.shields.io/badge/MCP-0f0c29?style=for-the-badge&logo=protocols.io&logoColor=a78bfa)
-
-<br/><br/>
-
-**AI/ML & Data Science**
-
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f0c29?style=for-the-badge&logo=scikitlearn&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-0f0c29?style=for-the-badge&logo=pytorch&logoColor=a78bfa)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f0c29?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
-![XGBoost](https://img.shields.io/badge/XGBoost-0f0c29?style=for-the-badge&logo=python&logoColor=a78bfa)
-![Pandas](https://img.shields.io/badge/Pandas-0f0c29?style=for-the-badge&logo=pandas&logoColor=a78bfa)
-![NumPy](https://img.shields.io/badge/NumPy-0f0c29?style=for-the-badge&logo=numpy&logoColor=a78bfa)
-
-<br/><br/>
-
-**Data Engineering**
-
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
-![Apache Spark](https://img.shields.io/badge/Spark-0f0c29?style=for-the-badge&logo=apachespark&logoColor=a78bfa)
-![Apache Kafka](https://img.shields.io/badge/Kafka-0f0c29?style=for-the-badge&logo=apachekafka&logoColor=a78bfa)
-![Apache Airflow](https://img.shields.io/badge/Airflow-0f0c29?style=for-the-badge&logo=apacheairflow&logoColor=a78bfa)
-![Databricks](https://img.shields.io/badge/Databricks-0f0c29?style=for-the-badge&logo=databricks&logoColor=a78bfa)
-![Snowflake](https://img.shields.io/badge/Snowflake-0f0c29?style=for-the-badge&logo=snowflake&logoColor=a78bfa)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=a78bfa)
-
-<br/><br/>
-
-**Cloud, MLOps & Delivery**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=a78bfa)
-![AWS](https://img.shields.io/badge/AWS-0f0c29?style=for-the-badge&logo=amazonwebservices&logoColor=a78bfa)
-![Azure](https://img.shields.io/badge/Azure-0f0c29?style=for-the-badge&logo=microsoftazure&logoColor=a78bfa)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-0f0c29?style=for-the-badge&logo=googlecloud&logoColor=a78bfa)
-![Docker](https://img.shields.io/badge/Docker-0f0c29?style=for-the-badge&logo=docker&logoColor=a78bfa)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-0f0c29?style=for-the-badge&logo=kubernetes&logoColor=a78bfa)
-![MLflow](https://img.shields.io/badge/MLflow-0f0c29?style=for-the-badge&logo=mlflow&logoColor=a78bfa)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f0c29?style=for-the-badge&logo=githubactions&logoColor=a78bfa)
-
-</div>
+<h4 align="center">Cloud & Production</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/FastAPI-0f0c29?style=flat-square&logo=fastapi&logoColor=a78bfa" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/AWS-0f0c29?style=flat-square&logo=amazonwebservices&logoColor=a78bfa" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0f0c29?style=flat-square&logo=microsoftazure&logoColor=a78bfa" alt="Azure" />
+  <img src="https://img.shields.io/badge/Google_Cloud-0f0c29?style=flat-square&logo=googlecloud&logoColor=a78bfa" alt="Google Cloud" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Docker-0f0c29?style=flat-square&logo=docker&logoColor=a78bfa" alt="Docker" />
+  <img src="https://img.shields.io/badge/Kubernetes-0f0c29?style=flat-square&logo=kubernetes&logoColor=a78bfa" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/MLflow-0f0c29?style=flat-square&logo=mlflow&logoColor=a78bfa" alt="MLflow" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-0f0c29?style=flat-square&logo=githubactions&logoColor=a78bfa" alt="GitHub Actions" />
+</p>
 
 ---
 
