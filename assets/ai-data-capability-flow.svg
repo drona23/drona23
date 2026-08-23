@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Drona Gangarapu AI and data capability flow</title>
+  <desc id="desc">A five-stage flow from data engineering through data science, AI and machine learning, generative AI and RAG, to agentic AI, supported by APIs, MLOps, cloud, governance, and observability.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f0c29"/>
+      <stop offset="0.52" stop-color="#1b163d"/>
+      <stop offset="1" stop-color="#24243e"/>
+    </linearGradient>
+    <linearGradient id="flow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#a78bfa"/>
+      <stop offset="1" stop-color="#f472b6"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="360" rx="26" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1197" height="357" rx="24.5" fill="none" stroke="#6d5aa8" stroke-opacity=".55" stroke-width="3"/>
+
+  <text x="600" y="48" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="700" letter-spacing="1.5">END-TO-END AI &amp; DATA SYSTEMS</text>
+  <text x="600" y="77" text-anchor="middle" fill="#c4b5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" letter-spacing="1">FROM RAW DATA TO RELIABLE INTELLIGENCE</text>
+
+  <path d="M130 170 H1070" stroke="#302b63" stroke-width="9" stroke-linecap="round"/>
+  <path d="M130 170 H1070" stroke="url(#flow)" stroke-width="3" stroke-linecap="round" stroke-dasharray="18 14" filter="url(#glow)">
+    <animate attributeName="stroke-dashoffset" from="64" to="0" dur="2.2s" repeatCount="indefinite"/>
+  </path>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" text-anchor="middle">
+    <g transform="translate(130 170)">
+      <circle r="55" fill="#111231" stroke="#22d3ee" stroke-width="3"/>
+      <circle r="48" fill="none" stroke="#22d3ee" stroke-opacity=".28"/>
+      <text y="-8" fill="#ffffff" font-size="16" font-weight="700">DATA</text>
+      <text y="14" fill="#ffffff" font-size="16" font-weight="700">ENGINEERING</text>
+      <text y="80" fill="#a5f3fc" font-size="13">Pipelines · Streaming</text>
+    </g>
+
+    <g transform="translate(365 170)">
+      <circle r="55" fill="#151230" stroke="#60a5fa" stroke-width="3"/>
+      <circle r="48" fill="none" stroke="#60a5fa" stroke-opacity=".28"/>
+      <text y="-8" fill="#ffffff" font-size="16" font-weight="700">DATA</text>
+      <text y="14" fill="#ffffff" font-size="16" font-weight="700">SCIENCE</text>
+      <text y="80" fill="#bfdbfe" font-size="13">Analytics · Forecasting</text>
+    </g>
+
+    <g transform="translate(600 170)">
+      <circle r="59" fill="#1b153b" stroke="#a78bfa" stroke-width="4" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values=".65;1;.65" dur="2.2s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="50" fill="none" stroke="#a78bfa" stroke-opacity=".28"/>
+      <text y="-8" fill="#ffffff" font-size="17" font-weight="700">AI / ML</text>
+      <text y="15" fill="#ffffff" font-size="14" font-weight="600">ENGINEERING</text>
+      <text y="84" fill="#ddd6fe" font-size="13">Models · Evaluation</text>
+    </g>
+
+    <g transform="translate(835 170)">
+      <circle r="55" fill="#211432" stroke="#c084fc" stroke-width="3"/>
+      <circle r="48" fill="none" stroke="#c084fc" stroke-opacity=".28"/>
+      <text y="-8" fill="#ffffff" font-size="16" font-weight="700">GENAI</text>
+      <text y="14" fill="#ffffff" font-size="16" font-weight="700">&amp; RAG</text>
+      <text y="80" fill="#e9d5ff" font-size="13">Retrieval · Grounding</text>
+    </g>
+
+    <g transform="translate(1070 170)">
+      <circle r="55" fill="#28152f" stroke="#f472b6" stroke-width="3"/>
+      <circle r="48" fill="none" stroke="#f472b6" stroke-opacity=".28"/>
+      <text y="-8" fill="#ffffff" font-size="16" font-weight="700">AGENTIC</text>
+      <text y="14" fill="#ffffff" font-size="16" font-weight="700">AI</text>
+      <text y="80" fill="#fbcfe8" font-size="13">Tools · Orchestration</text>
+    </g>
+  </g>
+
+  <rect x="130" y="285" width="940" height="42" rx="21" fill="#0b0b22" stroke="#6d5aa8" stroke-opacity=".75"/>
+  <text x="600" y="312" text-anchor="middle" fill="#d8d4f4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600" letter-spacing=".8">FASTAPI  ·  MLOPS / LLMOPS  ·  CLOUD  ·  GOVERNANCE  ·  OBSERVABILITY</text>
+</svg>
