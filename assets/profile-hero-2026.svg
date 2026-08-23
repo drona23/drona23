@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Drona Gangarapu AI and data engineering profile</title>
+  <desc id="desc">Animated profile banner presenting Drona Gangarapu for Generative AI, Agentic AI, AI and ML, Data Science, and Data Engineering roles.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050816"/>
+      <stop offset="0.48" stop-color="#17153a"/>
+      <stop offset="1" stop-color="#081827"/>
+    </linearGradient>
+    <linearGradient id="neon" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22d3ee">
+        <animate attributeName="stop-color" values="#22d3ee;#8b5cf6;#22d3ee" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="0.5" stop-color="#8b5cf6">
+        <animate attributeName="stop-color" values="#8b5cf6;#f472b6;#8b5cf6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#f472b6">
+        <animate attributeName="stop-color" values="#f472b6;#22d3ee;#f472b6" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <radialGradient id="orbCyan">
+      <stop offset="0" stop-color="#22d3ee" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="orbPurple">
+      <stop offset="0" stop-color="#8b5cf6" stop-opacity=".38"/>
+      <stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#c4b5fd" opacity=".14"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="28" fill="url(#background)"/>
+  <rect width="1200" height="390" rx="28" fill="url(#dots)"/>
+  <rect x="1.5" y="1.5" width="1197" height="387" rx="26.5" fill="none" stroke="url(#neon)" stroke-width="3"/>
+
+  <circle cx="105" cy="85" r="190" fill="url(#orbCyan)">
+    <animate attributeName="cx" values="105;155;105" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1090" cy="310" r="220" fill="url(#orbPurple)">
+    <animate attributeName="cx" values="1090;1035;1090" dur="9s" repeatCount="indefinite"/>
+  </circle>
+
+  <path d="M110 92 C310 18 890 18 1090 92" fill="none" stroke="url(#neon)" stroke-opacity=".28" stroke-width="2" stroke-dasharray="8 14">
+    <animate attributeName="stroke-dashoffset" from="44" to="0" dur="3s" repeatCount="indefinite"/>
+  </path>
+  <path d="M110 310 C340 368 860 368 1090 310" fill="none" stroke="url(#neon)" stroke-opacity=".24" stroke-width="2" stroke-dasharray="8 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="44" dur="3s" repeatCount="indefinite"/>
+  </path>
+
+  <text x="600" y="92" text-anchor="middle" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="50" font-weight="750" letter-spacing=".5">Drona Gangarapu</text>
+  <rect x="384" y="116" width="432" height="34" rx="17" fill="#0f172a" stroke="url(#neon)" stroke-opacity=".8"/>
+  <text x="600" y="138" text-anchor="middle" fill="#ddd6fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2">RELIABLE AI AND DATA SYSTEMS</text>
+
+  <text x="600" y="184" text-anchor="middle" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">From data ingestion to intelligent applications in production</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700" text-anchor="middle">
+    <g>
+      <rect x="58" y="222" width="200" height="48" rx="24" fill="#0b2230" stroke="#22d3ee" stroke-width="1.5"/>
+      <text x="158" y="251" fill="#a5f3fc">GENERATIVE AI</text>
+    </g>
+    <g>
+      <rect x="279" y="222" width="190" height="48" rx="24" fill="#181737" stroke="#818cf8" stroke-width="1.5"/>
+      <text x="374" y="251" fill="#c7d2fe">AGENTIC AI</text>
+    </g>
+    <g>
+      <rect x="490" y="222" width="220" height="48" rx="24" fill="#21163b" stroke="#a78bfa" stroke-width="1.5" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values=".65;1;.65" dur="2.4s" repeatCount="indefinite"/>
+      </rect>
+      <text x="600" y="251" fill="#ddd6fe">AI AND ML ENGINEERING</text>
+    </g>
+    <g>
+      <rect x="731" y="222" width="190" height="48" rx="24" fill="#25152f" stroke="#d946ef" stroke-width="1.5"/>
+      <text x="826" y="251" fill="#f5d0fe">DATA SCIENCE</text>
+    </g>
+    <g>
+      <rect x="942" y="222" width="200" height="48" rx="24" fill="#291624" stroke="#f472b6" stroke-width="1.5"/>
+      <text x="1042" y="251" fill="#fbcfe8">DATA ENGINEERING</text>
+    </g>
+  </g>
+
+  <rect x="330" y="305" width="540" height="42" rx="21" fill="#050816" stroke="#475569" stroke-opacity=".75"/>
+  <text x="600" y="331" text-anchor="middle" fill="#94a3b8" font-family="JetBrains Mono,Consolas,monospace" font-size="14" font-weight="600" letter-spacing="1.1">BUILD  ·  EVALUATE  ·  DEPLOY  ·  OBSERVE</text>
+</svg>
