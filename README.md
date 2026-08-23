@@ -77,10 +77,10 @@
 | Project | Power Level | Mission |
 |---|---|---|
 | [**claude-token-efficient**](https://github.com/drona23/claude-token-efficient) | ⭐ 5.9K + | One CLAUDE.md to cut Claude verbosity. Drop-in, no code changes. |
-| [**Capstone_Project**](https://github.com/drona23/Capstone_Project) | 🌊 S-Rank | ML predicts data center CO₂ + water use. Routes AI jobs to cleanest server. |
+| [**Personal_Project**](https://github.com/drona23/Personal_Project) | 🌊 S-Rank | ML predicts data center CO₂ + water use. Routes AI jobs to cleanest server. |
 | [**llm-rag-chatbot**](https://github.com/drona23/llm-rag-chatbot) | 🧠 A-Rank | Student loan Q&A with RAG. Grounded answers via Claude, auto-evaluated. |
 | [**substack-ai-bot**](https://github.com/drona23/substack-ai-bot) | 🤖 A-Rank | Scrapes AI news, generates posts, publishes to Substack daily at 6 AM. |
-| [**weather-pipeline**](https://github.com/drona23/weather-pipeline) | ⚙️ B-Rank | Hourly ETL: 28 US cities → Airflow → PostgreSQL. Live infra for the Capstone. |
+| [**weather-pipeline**](https://github.com/drona23/weather-pipeline) | ⚙️ B-Rank | Hourly ETL: 28 US cities → Airflow → PostgreSQL. Live infrastructure for the personal project. |
 
 </div>
 
