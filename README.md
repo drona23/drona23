@@ -1,55 +1,59 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Drona%20Gangarapu&fontSize=44&fontColor=ffffff&fontAlignY=38&desc=Production-ready%20AI%20%7C%20ML%20%7C%20Data%20Systems&descAlignY=59&descColor=c4b5fd&animation=fadeIn" alt="Drona Gangarapu — Production-ready AI, ML, and data systems" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,45:1e1b4b,75:312e81,100:0f172a&height=225&section=header&text=Drona%20Gangarapu&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=From%20data%20pipelines%20to%20autonomous%20AI%20systems&descAlignY=59&descColor=c4b5fd&animation=fadeIn" alt="Drona Gangarapu — From data pipelines to autonomous AI systems" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=950&color=A78BFA&center=true&vCenter=true&width=760&lines=Generative+AI+Engineer;Agentic+AI+Engineer;AI%2FML+Engineer;Data+Scientist;Data+Engineer)](https://github.com/drona23)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Generative+AI+Engineer;Agentic+AI+Engineer;AI%2FML+Engineer;Data+Scientist;Data+Engineer)](https://github.com/drona23)
 
-**Generative AI Engineer · Agentic AI Engineer · AI/ML Engineer · Data Scientist · Data Engineer**
-
-I turn data into production intelligence—building the pipelines, models, retrieval systems, agents, APIs, and operational controls needed to ship dependable AI.
+<img src="https://img.shields.io/badge/GENAI-RAG_%7C_Evaluation-8b5cf6?style=flat-square" alt="GenAI: RAG and evaluation" />
+<img src="https://img.shields.io/badge/AGENTS-LangGraph_%7C_MCP-6366f1?style=flat-square" alt="Agents: LangGraph and MCP" />
+<img src="https://img.shields.io/badge/ML-Predict_%7C_Explain-2563eb?style=flat-square" alt="Machine learning: predict and explain" />
+<img src="https://img.shields.io/badge/DATA-Batch_%7C_Streaming-0891b2?style=flat-square" alt="Data: batch and streaming" />
+<img src="https://img.shields.io/badge/PRODUCTION-Deploy_%7C_Observe-0f766e?style=flat-square" alt="Production: deploy and observe" />
 
 </div>
 
 <br/>
+
+~~~python
+profile = {
+    "focus": ["Generative AI", "Agentic AI", "AI/ML", "Data Science", "Data Engineering"],
+    "builds": ["RAG systems", "AI agents", "ML models", "data pipelines", "production APIs"],
+    "approach": "build → evaluate → deploy → observe",
+    "default": "production over prototype",
+}
+~~~
 
 <div align="center">
-  <img width="100%" src="./assets/ai-data-capability-flow.svg" alt="Capability flow from data engineering through data science and machine learning to generative and agentic AI, supported by APIs, MLOps, cloud, governance, and observability" />
+
+I build dependable AI systems end to end—from data ingestion and modeling to retrieval, agents, deployment, evaluation, and observability.
+
 </div>
 
-<br/>
+---
 
-## Where I Add Value
+## What I Can Own
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### GenAI & Agents
+### Build Intelligence
 
-- RAG and semantic search
-- LangChain, LangGraph, LlamaIndex
-- Tool calling, MCP, and routing
-- Evaluation, guardrails, and HITL
+RAG · semantic search · embeddings · reranking · grounded generation · LangChain · LangGraph · LlamaIndex · MCP · tool calling
 
 </td>
 <td width="34%" valign="top">
 
-### AI/ML & Data Science
+### Learn From Data
 
-- Predictive modeling and forecasting
-- NLP and computer vision
-- Anomaly detection and recommendations
-- Explainability with SHAP and LIME
+Classification · regression · forecasting · anomaly detection · recommendations · NLP · computer vision · SHAP · LIME
 
 </td>
 <td width="33%" valign="top">
 
-### Data & Production
+### Ship to Production
 
-- Batch and streaming pipelines
-- Spark, Kafka, Airflow, and SQL
-- FastAPI services and model serving
-- Cloud, MLOps/LLMOps, and CI/CD
+Spark · Kafka · Airflow · SQL · FastAPI · Docker · Kubernetes · cloud · CI/CD · MLOps · LLMOps · monitoring
 
 </td>
 </tr>
@@ -57,70 +61,108 @@ I turn data into production intelligence—building the pipelines, models, retri
 
 ---
 
-## Selected Work
+## Projects That Show the Work
 
-| Project | Engineering signal | Stack |
-|---|---|---|
-| [**Making AI Less Thirsty**](https://github.com/drona23/Personal_Project) | Forecasts data-center carbon and water impact, then routes AI workloads toward cleaner locations. | Python · XGBoost · Prophet · SHAP |
-| [**LLM RAG Chatbot**](https://github.com/drona23/llm-rag-chatbot) | Builds grounded question answering with retrieval and automated response evaluation. | Python · RAG · LLM evaluation |
-| [**Weather Data Pipeline**](https://github.com/drona23/weather-pipeline) | Runs hourly ETL for 28 U.S. cities with orchestration and relational storage. | Airflow · PostgreSQL · Python |
-| [**Claude Token Efficient**](https://github.com/drona23/claude-token-efficient) | Benchmarks configuration strategies for efficient, reproducible agent workflows. | Python · Evaluation · Agents |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Making AI Less Thirsty](https://github.com/drona23/Personal_Project)
+
+Forecasts data-center carbon and water impact, then routes AI workloads toward cleaner locations.
+
+**Python · XGBoost · Prophet · SHAP**
+
+</td>
+<td width="50%" valign="top">
+
+### [LLM RAG Chatbot](https://github.com/drona23/llm-rag-chatbot)
+
+Builds grounded question answering with retrieval and automated response evaluation.
+
+**Python · RAG · LLM evaluation**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Weather Data Pipeline](https://github.com/drona23/weather-pipeline)
+
+Runs hourly ETL for 28 U.S. cities with orchestration and relational storage.
+
+**Airflow · PostgreSQL · Python**
+
+</td>
+<td width="50%" valign="top">
+
+### [Claude Token Efficient](https://github.com/drona23/claude-token-efficient)
+
+Benchmarks configuration strategies for efficient and reproducible agent workflows.
+
+**Python · Agents · Evaluation**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Toolkit
+## Engineering Signature
 
 <div align="center">
 
-**AI & Agents**
+### Grounded over guessed · Evaluated over assumed · Observable over opaque
 
-![LangChain](https://img.shields.io/badge/LangChain-151230?style=for-the-badge&logo=langchain&logoColor=a78bfa)
-![LangGraph](https://img.shields.io/badge/LangGraph-151230?style=for-the-badge&logo=langchain&logoColor=a78bfa)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-151230?style=for-the-badge&logo=huggingface&logoColor=a78bfa)
-![PyTorch](https://img.shields.io/badge/PyTorch-151230?style=for-the-badge&logo=pytorch&logoColor=a78bfa)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-151230?style=for-the-badge&logo=tensorflow&logoColor=a78bfa)
+</div>
 
-**Data & Application Engineering**
+- I connect data engineering, model development, retrieval, and application delivery as one system.
+- I measure model quality, retrieval relevance, hallucination risk, latency, cost, and drift.
+- I design for security, explainability, access control, auditability, and responsible AI.
 
-![Python](https://img.shields.io/badge/Python-0f0c29?style=for-the-badge&logo=python&logoColor=22d3ee)
-![SQL](https://img.shields.io/badge/SQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
-![FastAPI](https://img.shields.io/badge/FastAPI-0f0c29?style=for-the-badge&logo=fastapi&logoColor=22d3ee)
-![Apache Spark](https://img.shields.io/badge/Spark-0f0c29?style=for-the-badge&logo=apachespark&logoColor=22d3ee)
-![Apache Kafka](https://img.shields.io/badge/Kafka-0f0c29?style=for-the-badge&logo=apachekafka&logoColor=22d3ee)
-![Apache Airflow](https://img.shields.io/badge/Airflow-0f0c29?style=for-the-badge&logo=apacheairflow&logoColor=22d3ee)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0f0c29?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+<details>
+<summary><b>Open the technical stack</b></summary>
+<br/>
+
+<div align="center">
+
+**AI, ML & Agents**
+
+![LangChain](https://img.shields.io/badge/LangChain-111827?style=for-the-badge&logo=langchain&logoColor=8b5cf6)
+![LangGraph](https://img.shields.io/badge/LangGraph-111827?style=for-the-badge&logo=langchain&logoColor=8b5cf6)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-111827?style=for-the-badge&logo=huggingface&logoColor=8b5cf6)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=for-the-badge&logo=pytorch&logoColor=8b5cf6)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=for-the-badge&logo=tensorflow&logoColor=8b5cf6)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=for-the-badge&logo=scikitlearn&logoColor=8b5cf6)
+
+**Data & APIs**
+
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=22d3ee)
+![SQL](https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=22d3ee)
+![Apache Spark](https://img.shields.io/badge/Spark-111827?style=for-the-badge&logo=apachespark&logoColor=22d3ee)
+![Apache Kafka](https://img.shields.io/badge/Kafka-111827?style=for-the-badge&logo=apachekafka&logoColor=22d3ee)
+![Apache Airflow](https://img.shields.io/badge/Airflow-111827?style=for-the-badge&logo=apacheairflow&logoColor=22d3ee)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=22d3ee)
 
 **Cloud & Delivery**
 
-![AWS](https://img.shields.io/badge/AWS-211432?style=for-the-badge&logo=amazonwebservices&logoColor=f472b6)
-![Azure](https://img.shields.io/badge/Azure-211432?style=for-the-badge&logo=microsoftazure&logoColor=f472b6)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-211432?style=for-the-badge&logo=googlecloud&logoColor=f472b6)
-![Docker](https://img.shields.io/badge/Docker-211432?style=for-the-badge&logo=docker&logoColor=f472b6)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-211432?style=for-the-badge&logo=kubernetes&logoColor=f472b6)
-![MLflow](https://img.shields.io/badge/MLflow-211432?style=for-the-badge&logo=mlflow&logoColor=f472b6)
+![AWS](https://img.shields.io/badge/AWS-111827?style=for-the-badge&logo=amazonwebservices&logoColor=f472b6)
+![Azure](https://img.shields.io/badge/Azure-111827?style=for-the-badge&logo=microsoftazure&logoColor=f472b6)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-111827?style=for-the-badge&logo=googlecloud&logoColor=f472b6)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=f472b6)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=for-the-badge&logo=kubernetes&logoColor=f472b6)
+![MLflow](https://img.shields.io/badge/MLflow-111827?style=for-the-badge&logo=mlflow&logoColor=f472b6)
 
 </div>
+</details>
 
----
-
-## How I Engineer
+<br/>
 
 <div align="center">
 
-**Grounded over guessed** · **Evaluated over assumed** · **Observable over opaque** · **Production over prototype**
+**Generative AI Engineer · Agentic AI Engineer · AI/ML Engineer · Data Scientist · Data Engineer**
 
-</div>
-
-- Connect data engineering, modeling, retrieval, and application delivery as one system
-- Measure model quality, retrieval relevance, hallucination risk, latency, cost, and drift
-- Design for security, explainability, access control, auditability, and responsible AI
-
----
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=drona23&bg_color=0f0c29&color=a78bfa&line=22d3ee&point=f472b6&area=true&hide_border=true&area_color=302b63" alt="Drona's GitHub activity graph" />
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&animation=fadeIn" alt="" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:312e81,75:1e1b4b,100:050816&height=105&section=footer&animation=fadeIn" alt="" />
 
 </div>
